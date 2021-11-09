@@ -1,6 +1,6 @@
 # 14 Days Challenge
 
-Beginner course swift from CodeWithCris
+Beginner swift course of CodeWithCris
 
 Var declaration --> var myVar:string = "Variable string" or var myVar = "Variable string"
 
